@@ -1,0 +1,11 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+graph [ranksep=equally, splines=polyline] ;
+0 [label="petalwid <= 0.75\ngini = 0.666\nsamples = 76\nvalue = [39, 39, 35]\nclass = setosa", fillcolor="#ffffff"] ;
+1 [label="gini = 0.0\nsamples = 25\nvalue = [39, 0, 0]\nclass = setosa", fillcolor="#e58139"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.499\nsamples = 51\nvalue = [0, 39, 35]\nclass = versicolor", fillcolor="#ebfcf2"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+{rank=same ; 0} ;
+{rank=same ; 1; 2} ;
+}
