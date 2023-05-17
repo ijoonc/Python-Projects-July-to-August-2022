@@ -1,5 +1,5 @@
-# Python-Projects-July-to-August-2022
-These are my Python Machine Learning Projects from July 2022 to August 2022. 
+# Python Projects from July to August 2022
 
-I combined the fundamentals of ML Modeling, Data Science, Natural Language Processing, Pixel Pursuits, Matplotlib, Decision Trees, Random Forests, 
-Neural Networks, Data Visualization, and API and JSON utilization to assemble these projects.
+This repo contains my Python Machine Learning Projects from July 2022 to August 2022. 
+
+I combined the fundamentals of ML Modeling, Neural Networks, Decision Trees, Random Forests, Data Science, Natural Language Processing, Pixel Pursuits, Data Visualization, and API and JSON utilization to assemble these projects!
